@@ -18,7 +18,7 @@ allprojects {
   
 ```
   dependencies {
-	        implementation 'com.github.Praveen-Selvakumar:Custom_BottomNavigation_Lib:Tag'
+	        implementation 'com.github.Praveen-Selvakumar:Custom_BottomNavigation_Lib:1.0.0'
 	}
 ```
 
