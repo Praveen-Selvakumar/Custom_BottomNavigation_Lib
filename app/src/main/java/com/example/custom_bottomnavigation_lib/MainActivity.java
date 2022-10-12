@@ -25,6 +25,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
+        //git remote set-url origin https://github.com/MyRepo/project.git
 
 
     }
