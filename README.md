@@ -11,7 +11,7 @@ allprojects {
 			maven { url 'https://jitpack.io' }
 		}
 	}
-'''	
+        '''	
   
   > Step 2 : Add below library to the dependancy
   
@@ -19,5 +19,5 @@ allprojects {
   dependencies {
 	        implementation 'com.github.Praveen-Selvakumar:Custom_BottomNavigation_Lib:Tag'
 	}
-'''
+        '''
 
